@@ -1,0 +1,10 @@
+h1{
+    color: blue;
+    font-size: 70px;
+    text-align: center;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border: 1px solid black;
+    line-height: 2px;
+    margin: 10px;
+    letter-spacing: 20px;
+}
